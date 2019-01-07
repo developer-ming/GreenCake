@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Green Cake
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: a255719
+Implementation-Vendor-Id: com.greencake
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/GreenCake
+Created-By: Maven Integration for Eclipse
+
